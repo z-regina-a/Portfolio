@@ -31,6 +31,6 @@ puNumber — номер прокатного удостоверения;
 box_office — сборы в рублях.  
 
 ## Навыки и инструменты  
--python
--pandas
--matplotlib
+-python  
+-pandas  
+-matplotlib  
