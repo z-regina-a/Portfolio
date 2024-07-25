@@ -15,7 +15,7 @@ puNumber — номер прокатного удостоверения;
 show_start_date — дата премьеры фильма;  
 type — тип фильма;  
 film_studio — студия-производитель;  
-production_country — страна-производитель;  
+production_country — страна-производитель;    
 director — режиссёр;  
 producer — продюсер;  
 age_restriction — возрастная категория;  
